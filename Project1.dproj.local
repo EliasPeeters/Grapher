@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/11/21 22:33:09.000.008,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/29 10:01:30.000.773,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/29 10:13:55.000.029,\\Mac\Home\Documents\GitHub\delphi-projects\Funktionszeichner\Unit1.dfm=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017/11/29 10:13:55.000.922,\\Mac\Home\Documents\GitHub\delphi-projects\Funktionszeichner\Project1.dproj=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/11/29 10:13:55.000.029,\\Mac\Home\Documents\GitHub\delphi-projects\Funktionszeichner\Unit1.pas=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/03 14:07:43.000.032,=\\Mac\Home\Documents\GitHub\delphi-projects\Funktionszeichner\Funktionsrechner.pas</Transaction>
+    <Transaction>2018/02/03 15:54:56.000.990,=\\Mac\Home\Documents\GitHub\delphi-projects\Funktionszeichner\Unit2.pas</Transaction>
+    <Transaction>2018/03/13 22:26:53.000.593,\\Mac\Home\Documents\GitHub\delphi-projects\Funktionszeichner New\Unit1.dfm=\\Mac\Home\Documents\GitHub\delphi-projects\Funktionszeichner\Unit1.dfm</Transaction>
+    <Transaction>2018/03/13 22:26:53.000.593,\\Mac\Home\Documents\GitHub\delphi-projects\Funktionszeichner New\Unit1.pas=\\Mac\Home\Documents\GitHub\delphi-projects\Funktionszeichner\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
